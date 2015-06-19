@@ -1,0 +1,13 @@
+{
+  "name": "portable-bundle-browser-micro",
+  "version": "0.0.1",
+  "description": "Smallest portable.js browser bundle",
+  "main": "index.js",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/streamich/portable-bundle-browser-micro.git"
+  },
+  "license": "Unlicense",
+  "dependencies": {},
+  "devDependencies": {}
+}
