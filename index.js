@@ -1,6 +1,6 @@
-/// <reference path="../typing.d.ts" />
 var fs = require('fs');
 var extend = require('./extend');
+
 
 
 var volpath = __dirname + '/build/lib.json';
@@ -43,5 +43,6 @@ function bundle_browser_micro(bundle, props) {
 
     return out;
 }
+
 
 module.exports = bundle_browser_micro;
